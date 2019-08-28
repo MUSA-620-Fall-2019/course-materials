@@ -1,5 +1,7 @@
 # Getting started with Anaconda
 
+Below, I will outline several of the more common tasks when using Anaconda. To fully familiarize yourself with Anaconda, I **strongly** recommend going through the official [Anaconda User Guide](https://docs.anaconda.com/anaconda/user-guide/).
+
 The first step with Anaconda is to set up the Python environment we will use in this class and install the Python packages we will need.
 
 To do this, you will need to execute commands via the command line. The exact process will depend on your operating system.

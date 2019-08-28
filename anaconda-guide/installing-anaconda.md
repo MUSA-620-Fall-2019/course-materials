@@ -12,8 +12,9 @@ The latest installer for your computer's operating system should be used. It wil
 
 Based on your operating system, installation instructions are available online:
 
-- [Mac OS X](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
-- [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
+- [Mac OS X](https://docs.anaconda.com/anaconda/install/mac-os/)
+- [Windows](https://docs.anaconda.com/anaconda/install/windows/#)
+- [Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
 **Important:** for Windows users, you will be presented with a series of advanced options during installation, which include whether to add Anaconda to your PATH environment variable. This is **not recommended** for this course (leave the box unchecked). It will be easiest to use Anaconda through the builtin Anaconda Prompt (see below.)
 

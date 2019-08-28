@@ -12,10 +12,14 @@ This repository contains general course materials, including:
   - [Frequently encountered problems](anaconda-guide/common-issues.md)
 - [A environment.yml](environment.yml) file specifying the Python packages needed in this course
 
-## A couple of notes:
+#### Note
 
-- Throughout the course, the [environment.yml](environment.yml) file in this repository will be updated to include all necessary packages.
-- The [syllabus](syllabus.md) in this repository will also be updated with links to each week's materials and assignments.
+Throughout the course, the [environment.yml](environment.yml) file in this repository will be updated to include all necessary packages.
+The [syllabus](syllabus.md) in this repository will also be updated with links to each week's materials and assignments.
+
+## Anaconda tutorials
+
+See the official [Anaconda User Guide](https://docs.anaconda.com/anaconda/user-guide/) for tutorials on using Anaconda. An [installation guide](https://docs.anaconda.com/anaconda/install/) is also available.
 
 ## Recommended Python tutorials
 
