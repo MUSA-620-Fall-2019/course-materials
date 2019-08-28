@@ -1,6 +1,6 @@
 # Welcome to MUSA 620: Geospatial Data Science in Python
 
-## General info
+## In this repository
 
 This repository contains general course materials, including:
 
