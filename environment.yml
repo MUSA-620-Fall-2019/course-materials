@@ -1,0 +1,12 @@
+name: musa-620
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipython
+  - pip
