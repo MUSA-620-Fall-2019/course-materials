@@ -2,10 +2,10 @@
 
 This guide includes instructions for working with environment.yml files. It has two parts:
 
-1. [Downloading environment.yml files](#downloading-environment-yml-files)
-1. [Updating your local environment with a ".yml" file](#updating-your-environment-yml-file)
+1. [Downloading environment.yml files](#downloading-environment-files)
+1. [Updating your local environment](#updating-your-local-environment)
 
-## Downloading environment.yml files
+## Downloading environment files
 
 Environment files can be downloaded from GitHub using two methods.
 
@@ -35,7 +35,7 @@ Environment files can be downloaded from GitHub using two methods.
 
 When saving the environment file to your computer, following either of the methods above, make sure the file is saved with a .yml file extenstion. Sometimes, a .txt file extension will be automatically added to the end of the file name, which can create issues when trying to use the environment file. On Windows, the file extension can be changed using [these instructions](https://www.mediacollege.com/microsoft/windows/extension-change.html).
 
-## Updating your environment.yml file
+## Updating your local environment
 
 After following the instructions for part 1 of this guide, you should have an environment file saved somewhere on your computer. Let's imagine the file is located at:
 
