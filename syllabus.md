@@ -13,7 +13,10 @@ Thursday from 5pm to 8pm in Meyerson Hall, room B4.
 
 ### Office hours
 
-- TBD
+**Nick**:  
+  - 6-8pm, Mondays
+  - Remotely via Google Hangouts (nicholas.adam.hand@gmail.com). 
+  - Easiest by appointment, so please send me an email if you'd like to chat.
 
 ### Course Websites
 
