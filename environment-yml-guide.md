@@ -2,8 +2,8 @@
 
 This guide includes instructions for working with environment.yml files. It has two parts:
 
-1. [Downloading environment.yml files](#Downloading-environment.yml-files)
-1. [Updating your local environment with a ".yml" file](#Updating-your-environment.yml-file)
+1. [Downloading environment.yml files](#downloading-environment.yml-files)
+1. [Updating your local environment with a ".yml" file](#updating-your-environment.yml-file)
 
 ## Downloading environment.yml files
 
