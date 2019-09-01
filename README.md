@@ -11,6 +11,7 @@ This repository contains general course materials, including:
   - [Managing environments and installing packages](anaconda-guide/managing-packages.md)
   - [Frequently encountered problems](anaconda-guide/common-issues.md)
 - [A environment.yml](environment.yml) file specifying the Python packages needed in this course
+- [A Guide to Working with environment.yml Files](environment-yml-guide.md)
 
 #### Note
 
