@@ -22,7 +22,7 @@ C:\Users\YourUserName\Desktop\environment.yml (on Windows)
 
 If you need help finding the folder name of the environment file, see [this guide](finding-file-path.md).
 
-Your local environment can be updated to match this file by using the following steps:
+Next, use the following steps:
 
 **Step 1.** On Windows, open the Anaconda Prompt, or on Mac, open the Terminal.
 
