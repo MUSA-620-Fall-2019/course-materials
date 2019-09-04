@@ -4,10 +4,10 @@ In this guide, we describe some of the most common issues encountered during loc
 try to fix the issues.
 
 - Part 1: [Troubleshooting Steps for Most Issues](#troubleshooting-steps)
-  - [Update your conda version](#update-your-conda-version)
-  - [Delete any existing environment](#delete-any-existing-environment)
-  - [Create a fresh environment](#create-a-fresh-environment)
-  - [Update your fresh environment](#update-your-fresh-environment)
+  - [Update your conda version](#step-1-update-your-conda-version)
+  - [Delete any existing environment](#step-2-delete-any-existing-environment)
+  - [Create a fresh environment](#step-3-create-a-fresh-environment)
+  - [Update your fresh environment](#step-4-update-your-fresh-environment)
 - Part 2: [Common Problems](#common-problems)
   - ["Permission Denied" Errors on Windows](#permission-denied-errors-on-windows)
   - [SSL Connection Errors](#ssl-connection-errors)
