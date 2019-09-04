@@ -6,7 +6,7 @@ If you followed the instructions for [downloading environment.yml files from Git
 
 or
 
-C:\Users\YourUserName\Desktop\environment.yml
+C:\Users\YourUserName\Desktop\environment.yml (on Windows)
 
 Your local environment can be updated to match this file by using the following steps:
 
