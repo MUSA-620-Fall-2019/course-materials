@@ -9,11 +9,11 @@ Environment files can be downloaded from GitHub using two methods.
 
 2. Click on the "Raw" button to load a version of the file that only includes the text.
 
-![The Github raw button](images/github_raw_button.png)
+![The Github raw button](../images/github_raw_button.png)
 
 3. Once the raw version is opened, right click on the whitespace and select save as.
 
-![](images/github_raw_saveas.png)
+![](../images/github_raw_saveas.png)
 
 4. Save the file to a folder on your computer, and remember the file name for part 2 below.
 
