@@ -1,11 +1,4 @@
-# Working with "environment.yml" files
-
-This guide includes instructions for working with environment.yml files. It has two parts:
-
-1. [Downloading environment.yml files](#downloading-environment-files)
-1. [Updating your local environment](#updating-your-local-environment)
-
-## Downloading environment files
+# Downloading environment files from Github
 
 Environment files can be downloaded from GitHub using two methods.
 
@@ -34,53 +27,3 @@ Environment files can be downloaded from GitHub using two methods.
 ### Important
 
 When saving the environment file to your computer, following either of the methods above, make sure the file is saved with a .yml file extenstion. Sometimes, a .txt file extension will be automatically added to the end of the file name, which can create issues when trying to use the environment file. On Windows, the file extension can be changed using [these instructions](https://www.mediacollege.com/microsoft/windows/extension-change.html).
-
-## Updating your local environment
-
-After following the instructions for part 1 of this guide, you should have an environment file saved somewhere on your computer. Let's imagine the file is located at:
-
-/Users/YourUserName/Desktop/environment.yml (on a Mac),
-
-or
-
-C:\Users\YourUserName\Desktop\environment.yml
-
-Your local environment can be updated to match this file by using the following steps:
-
-**Step 1.** On Windows, open the Anaconda Prompt, or on Mac, open the Terminal.
-
-**Step 2.** Navigate to the folder where the environment file is located. From the Prompt or Terminal run:
-
-**Windows**
-
-```
-cd C:\Users\YourUserName\Desktop
-```
-
-**Mac**
-
-```
-cd /Users/YourUserName/Desktop/
-```
-
-Be sure to use the true location of the file on your computer. This will set the current "working directory" of the Prompt/Terminal to the folder location. You can confirm the contents of your current working directory by running:
-
-**Windows**
-
-```
-dir
-```
-
-**Mac**
-
-```
-ls
-```
-
-**Step 3.** Then we can update your local environment using:
-
-```
-conda env update --name musa-620 --file environment.yml
-```
-
-(Assuming the file is called "environment.yml")
