@@ -1,12 +1,29 @@
 # Common installation problems
 
-In this guide, we describe some of the most common issues encountered during local installation of Python packages.
+In this guide, we describe some of the most common issues encountered during local installation of Python packages, as well as the troubleshooting steps to
+try to fix the issues.
 
-The commands here should be executed via the command line, either using the `Anaconda Prompt` on Windows or the `Terminal` app on MacOS.
+- Part 1: [Troubleshooting Steps for Most Issues](#troubleshooting-steps)
+  - [Update your conda version](#update-your-conda-version)
+  - [Delete any existing environment](#delete-any-existing-environment)
+  - [Create a fresh environment](#create-a-fresh-environment)
+  - [Update your fresh environment](#update-your-fresh-environment)
+- Part 2: [Common Problems](#common-problems)
+  - ["Permission Denied" Errors on Windows](#permission-denied-errors-on-windows)
+  - [SSL Connection Errors](#ssl-connection-errors)
+  - [Missing package errors](#missing-package-errors)
+  - [The file extension of the environment file on Windows](#the-file-extension-of-the-environment-file-on-Windows)
+  - [Mixing `pip` and `conda`](#mixing-pip-and-conda)
+  - [Import errors for `geopandas`](#import-errors-for-geopandas)
+  - [Numpy errors](#numpy-errors)
 
-The following steps can be used to try to solve the issue:
+## Troubleshooting Steps
 
-## Step 1: Update your conda version
+The following troubleshootings steps can be used to try to solve common issues:
+
+**Note:** The commands here should be executed via the command line, either using the `Anaconda Prompt` on Windows or the `Terminal` app on MacOS.
+
+### Step 1: Update your conda version
 
 To make sure it isn't an issue with `conda` itself, make sure you are using the latest version by running:
 
@@ -14,7 +31,7 @@ To make sure it isn't an issue with `conda` itself, make sure you are using the 
 conda update -n base -c defaults conda
 ```
 
-## Step 2: Delete any existing environment
+### Step 2: Delete any existing environment
 
 We want to create a fresh environment, so you can delete any environment that was giving you issues. If that environment was called `'musa-620'`, you can run the following commands to delete it:
 
@@ -28,7 +45,7 @@ conda env remove --name musa-620
 
 The first command will activate the `'base'` environment and then the second command will perform the deletion.
 
-## Step 3: Create a fresh environment
+### Step 3: Create a fresh environment
 
 To create a fresh environment, first download the [`environment.yml`](../environment.yml)
 from this repository to your computer.
@@ -45,7 +62,7 @@ If this succeeds, you can activate the command using:
 conda activate musa-620
 ```
 
-## Step 4: Updating your environment
+### Step 4: Update your fresh environment
 
 The GitHub repository for each week's lecture will include an `environment.yml` specifying the packages needed for that week. You can update your `'musa-620` environment by downloading the environment file to your computer and then running:
 
@@ -65,11 +82,11 @@ conda activate musa-620
 
 Below we list some of the most common issues encountered when installing packages with Anaconda.
 
-#### "Permission Denied" Errors on Windows
+### "Permission Denied" Errors on Windows
 
 This is actually caused by a problem with the `conda` software on Windows. You should be able to solve it by updating to the latest version and following the above steps.
 
-#### SSL Connection Errors
+### SSL Connection Errors
 
 Connection errors can also sometimes occur on Windows that will prevent new packages being downloaded. Again, you should be able to solve it by updating to the latest version and following the above steps.
 
@@ -91,12 +108,11 @@ The environment file needs to end in `.yml`. You can change the extension for a 
 
 The command `pip` can also be used to install Python packages. However, using `pip` to install packages into a `conda` environment can lead to issues. It's best to stick to using the `conda env update` command to update your environment or `conda install package_name` to install specific packages.
 
-
 #### Import errors for `geopandas`
 
 When importing `geopandas`, you can sometimes receive errors about missing libraries. These is usually because packages got mixed up during installation.
 
-The best and easiest thing to do to try to solve it is use the steps above to create a fresh environment. 
+The best and easiest thing to do to try to solve it is use the steps above to create a fresh environment.
 
 #### Numpy errors
 
@@ -111,4 +127,3 @@ Make sure you are running the latest conda (see Step 1 above), and then from the
 ```
 conda install --force-reinstall --clobber numpy
 ```
-
