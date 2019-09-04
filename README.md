@@ -7,8 +7,17 @@ This repository contains general course materials, including:
 - [Course Syllabus](syllabus.md)
 - [Package Cheat Sheets](./cheatsheets)
 - [A environment.yml](environment.yml) file specifying the Python packages needed in this course
-- [A Guide to Anaconda](anaconda-guide)
-- [General Guides](./general-guides)
+- [A Guide to Anaconda](anaconda-guide), including:
+  - [Installing Anaconda](anaconda-guide/installing-anaconda.md)
+  - [Managing environments and installing packages](anaconda-guide/managing-packages.md)
+  - [Frequently encountered problems](anaconda-guide/common-issues.md)
+- [General Guides](./general-guides), including:
+  - [Downloading environment.yml files from Github](./general-guides/downloading-environment-files.md)
+  - [Creating your first Anaconda environment](./general-guides/creating-your-first-environment.md)
+  - [Updating the environment on your laptop](./general-guides/updating-your-environment.md)
+  - [Launching a Jupyter notebook](./general-guides/launching-jupyter-notebook.md)
+  - [Finding the path of a specific file](./general-guides/finding-file-path.md)
+  - [Navigating folders with Jupyter notebook](./general-guides/jupyter-notebook-and-folders.md)
 
 #### Note
 
