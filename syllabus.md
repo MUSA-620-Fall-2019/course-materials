@@ -13,10 +13,16 @@ Thursday from 5pm to 8pm in Meyerson Hall, room B4.
 
 ### Office hours
 
-**Nick**:  
-  - 6-8pm, Mondays
-  - Remotely via Google Hangouts (nicholas.adam.hand@gmail.com). 
-  - Easiest by appointment, so please send me an email if you'd like to chat.
+**Nick**:
+
+- 6-8pm, Mondays
+- Remotely via Google Hangouts (nicholas.adam.hand@gmail.com).
+- Easiest by appointment, so please send me an email if you'd like to chat.
+
+**Chloe**:
+
+- Tuesdays, 2-4pm
+- On campus in EC 226
 
 ### Course Websites
 
@@ -62,24 +68,24 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 
 ## Schedule
 
-| Class #                | Date   | Topic                                                                      | Homework                       |
-| ---------------------- | ------ | -------------------------------------------------------------------------- | ------------------------------ |
-| Week 1                 | Aug 29 | Exploratory Data Science in Python                                         | Assign HW #1 \*                |
-| Week 2                 | Sep 5  | Data Visualization Fundamentals                                            | Assign HW #2 \*                |
-| Week 3                 | Sep 12 | Geospatial Data Analysis and GeoPandas                                     |                                |
-| Week 4                 | Sep 19 | Geospatial Data Analysis with Raster Datasets                              | Assign HW #3 \*                |
-| Week 5                 | Sep 26 | Getting Data Part 1: Working with APIs                                     |                                |
-| Week 6                 | Oct 3  | Getting Data Part 2: Web Scraping                                          | Assign HW #4                   |
-| **Fall Break**         | Oct 10 |                                                                            |                                |
-| Week 7                 | Oct 17 | Analyzing and Visualizing Large Datasets                                   | Assign HW #5                   |
-| Week 8                 | Oct 24 | Case Study: Urban Heat Islands & Street Trees in Philadelphia              |                                |
-| Week 9                 | Oct 31 | Case Study: OpenStreetMap, Urban Networks, and Interactive Web Maps        | Assign HW #6                   |
-| Week 10                | Nov 7  | Case Study: Clustering Analysis in Python                                  |                                |
-| Week 11                | Nov 14 | Predictive Modeling Part 1: Home Prices in Philadelphia                    | Assign HW #7 \*                |
-| Week 12                | Nov 21 | Predictive Modeling Part 2: Space/time Rideshare Demand                    |                                |
-| Week 13                | Nov 26 | From Notebooks to the Web: Web Servers, Github Pages, Dashboards           | Proposal for final project due |
-| **Thanksgiving Break** | Nov 28 |                                                                            |                                |
-| Week 14                | Dec 5  | From Notebooks to the Web: Dashboarding with Panel and the PyViz Ecosystem |                                |
+| Class #                | Date   | Topic                                                                              | Homework                                                              |
+| ---------------------- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Week 1                 | Aug 29 | [Exploratory Data Science in Python](https://github.com/MUSA-620-Fall-2019/week-1) | [Assign HW #1](https://github.com/MUSA-620-Fall-2019/assignment-1) \* |
+| Week 2                 | Sep 5  | Data Visualization Fundamentals                                                    | Assign HW #2 \*                                                       |
+| Week 3                 | Sep 12 | Geospatial Data Analysis and GeoPandas                                             |                                                                       |
+| Week 4                 | Sep 19 | Geospatial Data Analysis with Raster Datasets                                      | Assign HW #3 \*                                                       |
+| Week 5                 | Sep 26 | Getting Data Part 1: Working with APIs                                             |                                                                       |
+| Week 6                 | Oct 3  | Getting Data Part 2: Web Scraping                                                  | Assign HW #4                                                          |
+| **Fall Break**         | Oct 10 |                                                                                    |                                                                       |
+| Week 7                 | Oct 17 | Analyzing and Visualizing Large Datasets                                           | Assign HW #5                                                          |
+| Week 8                 | Oct 24 | Case Study: Urban Heat Islands & Street Trees in Philadelphia                      |                                                                       |
+| Week 9                 | Oct 31 | Case Study: OpenStreetMap, Urban Networks, and Interactive Web Maps                | Assign HW #6                                                          |
+| Week 10                | Nov 7  | Case Study: Clustering Analysis in Python                                          |                                                                       |
+| Week 11                | Nov 14 | Predictive Modeling Part 1: Home Prices in Philadelphia                            | Assign HW #7 \*                                                       |
+| Week 12                | Nov 21 | Predictive Modeling Part 2: Space/time Rideshare Demand                            |                                                                       |
+| Week 13                | Nov 26 | From Notebooks to the Web: Web Servers, Github Pages, Dashboards                   | Proposal for final project due                                        |
+| **Thanksgiving Break** | Nov 28 |                                                                                    |                                                                       |
+| Week 14                | Dec 5  | From Notebooks to the Web: Dashboarding with Panel and the PyViz Ecosystem         |                                                                       |
 
 \* **Denotes a required homework assignment**
 
