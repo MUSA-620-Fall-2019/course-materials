@@ -24,4 +24,4 @@ The adoption of Python 3, first released in 2008, was very slow, and many users 
 
 We will use Python 3 in this course.
 
-#### Next step: see the [instructions](managing-packages.md) for managing environments and installing packages.
+#### Next step: see the [instructions for common commands](common-commands.md) for managing environments and installing packages.
