@@ -71,7 +71,7 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 | Class #                | Date   | Topic                                                                              | Homework                                                              |
 | ---------------------- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Week 1                 | Aug 29 | [Exploratory Data Science in Python](https://github.com/MUSA-620-Fall-2019/week-1) | [Assign HW #1](https://github.com/MUSA-620-Fall-2019/assignment-1) \* |
-| Week 2                 | Sep 5  | Data Visualization Fundamentals                                                    | Assign HW #2 \*                                                       |
+| Week 2                 | Sep 5  | [Data Visualization Fundamentals](https://github.com/MUSA-620-Fall-2019/week-2)                                                   | Assign HW #2 \*                                                       |
 | Week 3                 | Sep 12 | Geospatial Data Analysis and GeoPandas                                             |                                                                       |
 | Week 4                 | Sep 19 | Geospatial Data Analysis with Raster Datasets                                      | Assign HW #3 \*                                                       |
 | Week 5                 | Sep 26 | Getting Data Part 1: Working with APIs                                             |                                                                       |
