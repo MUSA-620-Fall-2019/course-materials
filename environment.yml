@@ -15,3 +15,7 @@ dependencies:
   - vega_datasets
   - notebook
   - vega
+  - geopandas
+  - descartes
+  - cartopy
+  - mapclassify
