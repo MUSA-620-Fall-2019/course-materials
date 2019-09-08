@@ -19,3 +19,4 @@ dependencies:
   - descartes
   - cartopy
   - mapclassify
+  - contextily=1.0rc2
