@@ -1,7 +1,7 @@
 name: musa-620
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - python=3.6
   - numpy
