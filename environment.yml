@@ -6,7 +6,7 @@ dependencies:
   - python=3.6
   - numpy
   - pandas
-  - matplotlib
+  - matplotlib=3.1.0
   - jupyter
   - ipython
   - pip
@@ -15,7 +15,7 @@ dependencies:
   - vega_datasets
   - notebook
   - vega
-  - geopandas
+  - geopandas=0.5.1
   - descartes
   - cartopy
   - mapclassify
