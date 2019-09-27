@@ -2,6 +2,7 @@ name: musa-620
 channels:
   - defaults
   - conda-forge
+  - pyviz
 dependencies:
   - python=3.6
   - numpy
@@ -20,8 +21,18 @@ dependencies:
   - cartopy
   - mapclassify
   - contextily=1.0rc2
-  - hvplot
-  - geoviews
+  - pyviz::hvplot
+  - pyviz::holoviews
+  - pyviz::geoviews>1.6.2
   - rasterio
   - rasterstats
   - earthpy
+  - requests
+  - census
+  - pip:
+      - us
+      - tweepy
+      - textblob
+      - nltk
+      - carto2gpd
+      - esri2gpd
