@@ -29,6 +29,10 @@ dependencies:
   - earthpy
   - requests
   - census
+  - selenium
+  - beautifulsoup4
+  - geckodriver
+  - python-chromedriver-binary=77.0.3865.40.0
   - pip:
       - us
       - tweepy
