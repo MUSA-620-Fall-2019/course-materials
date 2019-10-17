@@ -22,7 +22,7 @@ dependencies:
   - mapclassify
   - contextily=1.0rc2
   - pyviz::hvplot
-  - pyviz::holoviews
+  - pyviz::holoviews=1.12.3
   - pyviz::geoviews>1.6.2
   - rasterio
   - rasterstats
@@ -33,6 +33,16 @@ dependencies:
   - beautifulsoup4
   - geckodriver
   - python-chromedriver-binary=77.0.3865.40.0
+  - imageio
+  - pyviz::datashader
+  - intake
+  - intake-parquet
+  - dask
+  - fastparquet
+  - python-snappy
+  - pyarrow
+  - s3fs
+  - tqdm
   - pip:
       - us
       - tweepy
