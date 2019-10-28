@@ -21,9 +21,12 @@ dependencies:
   - cartopy
   - mapclassify
   - contextily=1.0rc2
+  - defaults::bokeh>=1.3
   - pyviz::hvplot
-  - pyviz::holoviews=1.12.3
+  - pyviz::holoviews=1.12.6
   - pyviz::geoviews>1.6.2
+  - conda-forge::xarray=0.14
+  - pyviz::datashader
   - rasterio
   - rasterstats
   - earthpy
@@ -34,9 +37,9 @@ dependencies:
   - geckodriver
   - python-chromedriver-binary=77.0.3865.40.0
   - imageio
-  - pyviz::datashader
   - intake
   - intake-parquet
+  - intake-xarray
   - dask
   - fastparquet
   - python-snappy
@@ -50,3 +53,5 @@ dependencies:
       - nltk
       - carto2gpd
       - esri2gpd
+      - rio-toa
+      - rioxarray
