@@ -46,6 +46,12 @@ dependencies:
   - pyarrow
   - s3fs
   - tqdm
+  - pandana
+  - osmnx
+  - networkx
+  - scikit-learn
+  - flask
+  - dash
   - pip:
       - us
       - tweepy
@@ -55,3 +61,5 @@ dependencies:
       - esri2gpd
       - rio-toa
       - rioxarray
+      - missingno
+      - osm2gpd
