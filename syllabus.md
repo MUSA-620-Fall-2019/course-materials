@@ -83,7 +83,7 @@ Students are expected to be familiar with and comply with Penn’s Code of Acade
 | Week 10                | Nov 7  | [Case Study: Clustering Analysis in Python](https://github.com/MUSA-620-Fall-2019/week-10)                                          |                                                                       |
 | Week 11                | Nov 14 | [Predictive Modeling Part 1: Home Prices in Philadelphia](https://github.com/MUSA-620-Fall-2019/week-11)                             | [Assign HW #7](https://github.com/MUSA-620-Fall-2019/assignment-7)  \*                                                       |
 | Week 12                | Nov 21 | [Predictive Modeling Part 2: Space/time Rideshare Demand](https://github.com/MUSA-620-Fall-2019/week-12)                                |                                                                       |
-| Week 13                | Nov 26 | From Notebooks to the Web: Web Servers, Github Pages, Dashboards                   | Proposal for final project due                                        |
+| Week 13                | Nov 26 | [From Notebooks to the Web: Github Pages, Web Servers, and Dash](https://github.com/MUSA-620-Fall-2019/week-13)                   | Proposal for final project due                                        |
 | **Thanksgiving Break** | Nov 28 |                                                                                    |                                                                       |
 | Week 14                | Dec 5  | From Notebooks to the Web: Dashboarding with Panel and the PyViz Ecosystem         |                                                                       |
 
