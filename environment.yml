@@ -27,6 +27,8 @@ dependencies:
   - pyviz::geoviews>1.6.2
   - conda-forge::xarray=0.14
   - pyviz::datashader
+  - pyviz::param
+  - pyviz::panel
   - rasterio
   - rasterstats
   - earthpy
@@ -63,3 +65,4 @@ dependencies:
       - rioxarray
       - missingno
       - osm2gpd
+      - jupyter-panel-proxy
